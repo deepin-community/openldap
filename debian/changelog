@@ -1,3 +1,9 @@
+openldap (2.5.13+dfsg-5deepin1) unstable; urgency=medium
+
+  * fix CVE-2023-2953
+
+ -- zengwei <zengwei1@uniontech.com>  Fri, 23 Jan 2026 14:50:59 +0800
+
 openldap (2.5.13+dfsg-5) unstable; urgency=medium
 
   * Fix sha2-contrib autopkgtest failure. Call slappasswd using its full path.
